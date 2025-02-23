@@ -1,4 +1,4 @@
-cmd --> 
+Open cmd Terminal 
 --> npm create vite@latest
 --> Project name
 --> Package name
